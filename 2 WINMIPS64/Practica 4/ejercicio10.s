@@ -1,5 +1,5 @@
 .data
-cadena: .asciiz "adbdcdedfdgdhdid" 
+cadena: .asciiz "adbdcdedfdgdhdidd" 
 car: .asciiz "d" 
 cant: .word 0 
 long: .word 16
