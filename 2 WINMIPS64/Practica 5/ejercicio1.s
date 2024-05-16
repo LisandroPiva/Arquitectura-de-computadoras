@@ -1,5 +1,5 @@
 .data
-n1: .double 9.13
+n1: .double 9.12
 n2: .double 6.58
 res1: .double 0.0
 res2: .double 0.0
